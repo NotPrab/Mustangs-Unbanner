@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Mustangs Unbanner\bin\Debug\Mustangs Unbanner.exe.config
+C:\Users\ASUS\source\repos\Mustangs Unbanner\bin\Debug\Mustangs Unbanner.exe
+C:\Users\ASUS\source\repos\Mustangs Unbanner\bin\Debug\Mustangs Unbanner.pdb
+C:\Users\ASUS\source\repos\Mustangs Unbanner\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\source\repos\Mustangs Unbanner\bin\Debug\Guna.UI.pdb
+C:\Users\ASUS\source\repos\Mustangs Unbanner\obj\Debug\Mustangs Unbanner.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Mustangs Unbanner\obj\Debug\Mustangs_Unbanner.Mustangs.resources
+C:\Users\ASUS\source\repos\Mustangs Unbanner\obj\Debug\Mustangs_Unbanner.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Mustangs Unbanner\obj\Debug\Mustangs Unbanner.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Mustangs Unbanner\obj\Debug\Mustangs Unbanner.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Mustangs Unbanner\obj\Debug\Mustangs Unbanner.exe
+C:\Users\ASUS\source\repos\Mustangs Unbanner\obj\Debug\Mustangs Unbanner.pdb
